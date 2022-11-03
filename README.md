@@ -7,8 +7,8 @@
 - Появление в заголовке номера задания и идентификатора задания.
 - Если задание не найдется (из-за несовершенства алгоритма), в заголовке будет лишь ID.
 ## Installation / Установка
-Download tampermonkey / Скачайте tampermonkey
-https://tampermonkey.net
-Download evil sdamgia / Скачайте evil sdamgia
-https://openuserjs.org/scripts/bazawew/evil_sdamgia
-Enjoy / Наслаждайтесь
+Download tampermonkey / Скачайте tampermonkey\n
+https://tampermonkey.net\n
+Download evil sdamgia / Скачайте evil sdamgia\n
+https://openuserjs.org/scripts/bazawew/evil_sdamgia\n
+Enjoy / Наслаждайтесь\n
