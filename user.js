@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.2
 // @license      MIT
-// @description  auto answers lol (in progress, workaem)
+// @description  evil sdamgia be like "show answers"
 // @author       bazawew
 // @match        http*://*.sdamgia.ru/test?id=*
 // @icon         https://raw.githubusercontent.com/bazawew/evilsdamgia/main/image.ico
